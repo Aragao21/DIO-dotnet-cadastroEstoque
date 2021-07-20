@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\FLAVIA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\FLAVIA\\.nuget\\packages"
+    ]
+  }
+}
